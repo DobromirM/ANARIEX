@@ -1,0 +1,13 @@
+# Author: DMarinov #
+# Craeted on: 06/Feb/2019 #
+
+#
+Definition and assignment should be
+separate commands
+#
+
+def example1;
+example1 = ((2^3 + 5) * (2^3 + 5));
+
+# Print the result, should be 169#
+print(example1);

@@ -1,0 +1,19 @@
+# Author: DMarinov #
+# Craeted on: 06/Feb/2019 #
+
+
+def a;
+a = 5;
+def b;
+b = a + 25;
+def c;
+def d;
+d = 22 * 3 + 4 * 2;
+a = b + d;
+c = a;
+
+# a = 104 #
+print(a);
+
+# b = 30 #
+print(b);
